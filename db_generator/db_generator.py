@@ -8,7 +8,7 @@ import random
 
 class DBGenerator():
 
-    codecooler_num = 10000000
+    codecooler_num = 500000
     percentage_to_log = 100
     school_num = 10000
     max_number_of_schools_per_codecooler = 5
